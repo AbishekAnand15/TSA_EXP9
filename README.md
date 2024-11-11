@@ -71,7 +71,7 @@ arima_model(daily_sales, 'Sales', order=(5, 1, 0))
 
 ```
 ### OUTPUT:
-![Screenshot 2024-11-11 103601](https://github.com/user-attachments/assets/f0c1ae00-1260-4426-9c61-cbf31210d661)
+![image](https://github.com/user-attachments/assets/663edec0-bf29-4819-a2e0-3c9af0a94985)
 
 
 
